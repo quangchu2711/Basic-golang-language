@@ -1,0 +1,3 @@
+Sum: 45
+Sum even number: 20
+Sum odd number: 25
